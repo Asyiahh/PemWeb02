@@ -1,5 +1,5 @@
 <?php
-$title = "Home - Yulfa";
+$title = "Home - Asyiahh";
 
 require_once './template/top.php';
 ?>
@@ -30,7 +30,7 @@ require_once './template/sidebar.php';
             <div class="d-flex justify-content-center align-items-center" style="background: linear-gradient(to right, #4e73df,rgb(217, 154, 236)); color: white; height: 100vh;">
                 <div class="text-center">
                     <h1 class="display-4 font-weight-bold">👋 Welcome to My Web</h1>
-                    <p class="lead mb-0">Sistem Informasi Data | Yulfa Nuha Pratini | 0110124204</p>
+                    <p class="lead mb-0">Sistem Informasi Data | Siti Asyiah | 0110124053 </p>
                 </div>
             </div>
 
@@ -42,7 +42,7 @@ require_once './template/sidebar.php';
                         <img src="./img/riki.jpeg" class="img-fluid rounded-circle" alt="Profil" style="max-width: 200px;">
                     </div>
                     <div class="col-md-8 mb-4">
-                        <h3 class="font-weight-bold">Yulfa</h3>
+                        <h3 class="font-weight-bold">asyiaahh</h3>
                         <p class="text-muted">Web Developer | Selamat Datang Di tugas PemWeb 2 saya.</p>
                         <a href="profile.php" class="btn btn-outline-primary btn-sm">Lihat Profil</a>
                     </div>
